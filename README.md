@@ -65,6 +65,4 @@ web-traffic-classifier/
 │── service_account.json  # Google Cloud authentication (add this manually)
 ```
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
 
