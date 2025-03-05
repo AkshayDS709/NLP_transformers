@@ -11,7 +11,6 @@ This project ingests web transaction logs, processes the data, and classifies tr
 - [Usage](#usage)
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Project Structure](#project-structure)
-- [License](#license)
 
 ## Overview
 The project fetches transaction logs from Google BigQuery, preprocesses the data, and trains a Transformer-based neural network model to classify transactions. The model uses PyTorch and sklearn for processing and evaluation.
